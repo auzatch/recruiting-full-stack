@@ -20,6 +20,7 @@
     "react/jsx-fragments": ["error", "element"],
     "react/jsx-props-no-spreading": ["warn", { html: 'ignore' }],
     "react-hooks/exhaustive-deps": "warn",
-    "react-hooks/rules-of-hooks": "error"
+    "react-hooks/rules-of-hooks": "error",
+    "linebreak-style": ["error", "windows"]
   }
 }
